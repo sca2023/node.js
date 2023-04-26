@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [19.12.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v19.11.1...puppeteer-core-v19.12.0) (2023-04-26)
+
+
+### Features
+
+* add AbortSignal to waitForFunction ([#10078](https://github.com/puppeteer/puppeteer/issues/10078)) ([4dd4cb9](https://github.com/puppeteer/puppeteer/commit/4dd4cb929242a6b1a621fd461edd3167d40e1c4c))
+
 ## [19.11.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v19.11.0...puppeteer-core-v19.11.1) (2023-04-25)
 
 
